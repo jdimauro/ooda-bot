@@ -52,10 +52,10 @@ void setup() {
 void loop() {
 
 	// OODA
-	// Observe 	- e.g. check all inputs
-	// Orient		-	e.g. check current position, relative to targets	
-	// Decide		- 
-	// Act			- 
+	// Observe	- check all inputs
+	// Orient		-	check current position, relative to targets	
+	// Decide		- based on inputs and current state, queue output actions
+	// Act			- perform output actions
 
 }
 
